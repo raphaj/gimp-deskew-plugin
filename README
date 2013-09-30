@@ -33,6 +33,7 @@ Requirements
 
 Install dependings with
 
+(Ubuntu 13.04)
 sudo apt-get install libgimp2.0-dev intltool libglib2.0-dev autoconf automake
 
 
