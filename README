@@ -28,6 +28,14 @@ Click Layer => Transform => Deskew.
 Gimp will auto-straighten ("deskew") the image.
 
 
+Requirements
+============
+
+Install dependings with
+
+sudo apt-get install libgimp2.0-dev intltool libglib2.0-dev autoconf automake
+
+
 Installation
 ============
 
